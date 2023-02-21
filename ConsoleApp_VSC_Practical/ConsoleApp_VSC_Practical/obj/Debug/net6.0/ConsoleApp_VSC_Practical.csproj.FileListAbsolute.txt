@@ -1,0 +1,17 @@
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\bin\Debug\net6.0\ConsoleApp_VSC_Practical.exe
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\bin\Debug\net6.0\ConsoleApp_VSC_Practical.deps.json
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\bin\Debug\net6.0\ConsoleApp_VSC_Practical.runtimeconfig.json
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\bin\Debug\net6.0\ConsoleApp_VSC_Practical.dll
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\bin\Debug\net6.0\ConsoleApp_VSC_Practical.pdb
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.AssemblyInfo.cs
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.csproj.CopyComplete
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.dll
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\refint\ConsoleApp_VSC_Practical.dll
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.pdb
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ConsoleApp_VSC_Practical.genruntimeconfig.cache
+C:\Users\jainam\source\repos\ConsoleApp_VSC_Practical\ConsoleApp_VSC_Practical\obj\Debug\net6.0\ref\ConsoleApp_VSC_Practical.dll
